@@ -1,6 +1,10 @@
+![header github page](https://github.com/eubieald/eubieald/assets/134094937/07aaae43-f3f3-4dce-a265-96b1f4394eb0)
+
+
 - 👋 Hi, I’m @eubieald
 - 👀 I’m interested in working as a full-stack developer in the near future.
 - 🌱 I’m currently learning Javascript, Firebase, and React.
+
 - 📫 How to reach me: eubiealuad@gmail.com
 
 <!---
