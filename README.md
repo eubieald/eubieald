@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @eubieald
 - 👀 I’m interested in working as a full-stack developer in the near future.
-- 🌱 I’m currently learning Javascript, Firebase, and React.
+- 🌱 I’m currently learning Javascript, Webpack, Firebase, and React.
 
 - 📫 How to reach me: eubiealuad@gmail.com
 
