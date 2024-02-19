@@ -5,8 +5,7 @@ Hey there! 👋 I'm Eubie , and I find joy in the world of programming, chess, a
 One of my greatest passions is the art of programming. I love the thrill of solving problems, building applications, and the endless possibilities that technology opens up. It's not just a career; it's a journey of constant learning and exploration.
 
 
-- 👀 I’m interested in working as a full-stack developer in the near future.
-- 🌱 I’m currently learning Javascript, Webpack, MERN and other tech stack.
+- 👀 I’m interested in working as a full-stack developer
 - 📫 How to reach me: eubiealuad@gmail.com
 
 <!---
