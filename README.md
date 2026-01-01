@@ -7,6 +7,7 @@ One of my greatest passions is the art of programming. I love the thrill of solv
 
 - 👀 I’m interested in working as a full-stack developer
 - 📫 How to reach me: eubiealuad@gmail.com
+- 💻 Portfolio: https://eubie-portfolio.netlify.app
 
 <!---
 eubieald/eubieald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
